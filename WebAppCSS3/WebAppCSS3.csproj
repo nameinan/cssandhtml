@@ -57,6 +57,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="content.html" />
+    <Content Include="styles\content.css" />
     <Content Include="styles\kingthings_calligraphica_2.woff" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

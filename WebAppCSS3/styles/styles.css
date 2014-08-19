@@ -20,11 +20,16 @@ h2 {
 }
 
 
-#fruitlist li:last-child{
-
+#fruitlist li:nth-of-type(3n){
     background: yellow;
 }
+#fruitlist li:nth-of-type(3n-1){
+    background: blue;
+}
 
+#fruitlist li:nth-of-type(3n-2){
+    background: beige;
+}
 
 
 
