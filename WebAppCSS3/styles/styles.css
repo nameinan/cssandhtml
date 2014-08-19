@@ -1,0 +1,30 @@
+﻿
+@font-face {
+    font-family: 'kingthings_calligraphica_2Rg';
+    src: url('kingthings_calligraphica_2.woff') format('woff');
+    font-style: normal;
+    font-weight: normal;
+
+}
+
+body,h1 {
+    font-family: kingthings_calligraphica_2Rg;
+    color: red;
+}
+
+
+h2 {
+    font-family: kingthings_calligraphica_2Rg;
+    color: red;
+    text-shadow: .16em 0.16em 1.16em blue; /*horizontal vertical blur and colour*/
+}
+
+
+#fruitlist li:last-child{
+
+    background: yellow;
+}
+
+
+
+
