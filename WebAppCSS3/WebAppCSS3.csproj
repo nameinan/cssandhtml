@@ -60,6 +60,7 @@
     <Content Include="content.html" />
     <Content Include="float.html" />
     <Content Include="styles\content.css" />
+    <Content Include="styles\images\Readme.txt" />
     <Content Include="styles\images\surfer.jpg" />
     <Content Include="styles\kingthings_calligraphica_2.woff" />
     <None Include="Web.Debug.config">
